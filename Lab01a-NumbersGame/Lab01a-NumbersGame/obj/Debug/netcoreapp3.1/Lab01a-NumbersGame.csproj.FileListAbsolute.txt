@@ -1,0 +1,4 @@
+C:\Users\Diane\Documents\Code-Fellows\Lab01a-NumbersGame\Lab01a-NumbersGame\obj\Debug\netcoreapp3.1\Lab01a-NumbersGame.csprojAssemblyReference.cache
+C:\Users\Diane\Documents\Code-Fellows\Lab01a-NumbersGame\Lab01a-NumbersGame\obj\Debug\netcoreapp3.1\Lab01a-NumbersGame.AssemblyInfoInputs.cache
+C:\Users\Diane\Documents\Code-Fellows\Lab01a-NumbersGame\Lab01a-NumbersGame\obj\Debug\netcoreapp3.1\Lab01a-NumbersGame.AssemblyInfo.cs
+C:\Users\Diane\Documents\Code-Fellows\Lab01a-NumbersGame\Lab01a-NumbersGame\obj\Debug\netcoreapp3.1\Lab01a-NumbersGame.csproj.CoreCompileInputs.cache
