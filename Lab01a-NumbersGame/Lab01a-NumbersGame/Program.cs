@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Transactions;
 
 namespace Lab01a_NumbersGame
 {
@@ -31,16 +32,26 @@ namespace Lab01a_NumbersGame
             try
             {
                 //from https://www.tutorialspoint.com/convert-toint32-method-in-chash
-                double doubleNum = 11.32;
-                int intNum;
-                intNum = Convert.ToInt32(doubleNum);
-                Console.WriteLine("Converted {doubleNum} to {intNum}");
+                double input = 11.32;
+                int doubleNum;
+                doubleNum = Convert.ToInt32(input);
+                Console.WriteLine("Converted {input} to {doubleNum}");
+                int[] IntegerArray = new int[0];
+                Populate(IntegerArray);
+                GetSum(IntegerArray);
+                GetProduct(IntegerArray, IntegerSum);
+                GetQuotient(IntegerProduct);
             }
 
             catch
             {
                 Console.WriteLine("Sorry, something went wrong.");
             }
+        }
+
+        static void Populate()
+        {
+
         }
 
     }
